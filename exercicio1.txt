@@ -1,0 +1,12 @@
+exercicio1
+
+1- PAN pois é uma ligação entre equipamentos pessoais
+2- LAN pois os computadores estão todos interligados entre si ao mesmo servidor
+3- CAN pois a interligação atinge até os 5KM de distancia entre cada universidade, ligando todas ao mesmo servidor
+4- LAN pois a smart TV está a agir como cliente, ao pedir informações á box
+5- PAN pois os tablets estão a compartilhar informações pela NFC que possui muito alcance 
+
+
+PAN 10 metros
+LAN 1KM a 2K
+CAN até 5 KM
