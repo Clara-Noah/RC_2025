@@ -1,0 +1,8 @@
+1 cenário A
+Topologia em barramento, pois o computador envia uma informação que todos podem usar e ver, mas só o computador que quiser a informação vai a usar.
+
+2 cenário B
+Topologia em estrela, já que o switch no meio controla para onde vai a informação.
+
+3 cenário C
+Topologia em anel, por estar em círculo; se um computador parar de funcionar, os outros param também
