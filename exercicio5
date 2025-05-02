@@ -1,0 +1,10 @@
+1. PAN
+[tablet] ---- (WIFI) ---- [Impressora]
+
+2. LAN
+[PC 1] \
+[PC 2] ---- (switch) ---- [edifício de aulas]
+[PC 3] /
+
+3. CAN
+[edifício 1] --- (fibra óptica) --- [edifício 2]
