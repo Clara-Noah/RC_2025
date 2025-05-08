@@ -1,10 +1,10 @@
 A-
-I- CAT6 corresponde ao cenário 4 
-II- CAT6a correspondem aos cenários 3 e 1 
-III- Fibra monomodo corresponde ao cenário 2 
+I- CAT6 corresponde ao cenário 3
+II- CAT6a correspondem ao cenário 1 
+III- Fibra monomodo corresponde aos cenários 2 e 4
 
-B- Para o cenário 2 eu escolhi a Fibra monomodo pois o mesmo pode chegar a incriveis 40 GBs porque demanda muito
+B- a fibra monomodo chega a 200 metros de alcance sem repetidores e tem baixa latência
 
-C- tanto o cabo CAT6 e CAT6a podem suportar o PoE(Power over Ethernet) e perdem muita pouca informação
+C-o cabo CAT6a pode suportar o PoE(Power over Ethernet)
 
 nota: backbone- espinha dorsal
