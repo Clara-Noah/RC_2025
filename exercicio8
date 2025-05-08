@@ -1,0 +1,12 @@
+a)- 
+Smartphones: 2,4 ou 5 GHz, os smartphones, dependendo do tipo de telemovel podem ter a banda de 2,4 GHz, ou ate mesmo aguentar 5 GHz se for dos mais mordernos
+computadores portateis: 5 GHz, os portateis normalmente usam a banda de 5 GHZ para funcionar numa velocidade aceitavel, já que uma banda 2,4 seria muito lenta
+televisões smart: 2,4 GHz, as televisões smart pois oferecem uma area maior mas pode sacrificar um pouco de velocidade
+plantaforma de streaming: 5 GHz, as plataformas de streaming, usam uma banda de 5 GHz por serem plataformas pesadas e com isso precisam de uma maior velocidade
+dispositivo de Internet of Things: 2,4 GHz, porque essa frequencia não é tão rapida, porem os dispositivos de IoT não necessitam de muita velocidade
+
+b)- 802.11ax (WI-FI 6) é um dos padrões WI-FI, que além de mais modernos, entregam taxas de dados mais rápidas em uma área de cobertura maior, com banda de 2,4 GHz e 5 GHz
+
+c)- Sim, deve se utilizar uma rede para os visitantes pois dessa maneira podemos dividir a rede dos visitantes da rede principal, impedindo que eles cheguem ao router e mexam nas configurações
+
+d)- poderiamos criar uma rede de vesitantes, ou ocultar o nome da rede/SSID sendo assim as pessoas só podem acessar com o nome e passeword segura e firewall
