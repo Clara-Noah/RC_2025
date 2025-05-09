@@ -1,0 +1,5 @@
+a) A informação é passada para todos os computadores que estão conectados a esse hub, porem os computadores que não pediram essa informação, a rejeitam e mandam de volta
+
+b) Quando a rede está ligada a um switch, e um computador pede uma informação, o switch manda a informação diretamente e somente para o computador que a pediu
+
+c) ao utilizar um hub, as desvantagens são informação pouco protegida, pode haver colisões de dados, e consequentemente pouca eficiencia e como vantagens tem um preço baixo
