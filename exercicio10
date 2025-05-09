@@ -1,0 +1,5 @@
+a) Uma bridge pode ligar duas redes locais, fazendo uma 'ponte' entre elas, permitindo que compartilhem informações mais em especifico entre a sala A e B
+
+b) Não, a bridge não vai interferir pois ela apenas conecta a rede da sala A com a rede da sala B, se a informação não for mandada para a sala B, não vai passar pela bridge
+
+c) Neste caso a bridge manda a informação do computador da sala A para o computador da sala B usando como base o MAC do computador para onde a informação vai ser enviada
