@@ -1,0 +1,17 @@
+  --router--                        |
+- encaminha por indereço IP         |
+- Liga segmentos da mesma rede      |
+- acede á internet                  |
+- trabalha na camada OSI 3          |
+------------------------------------|
+  --switch--                        |
+- Liga segmentos da mesma rede      |
+- encaminha por endereço MAC        |
+- acede á internet                  |
+- trabalha na camada OSI 2          |
+------------------------------------|
+  --bridge--                        |
+- encaminha por indereço IP         |
+- acede á internet                  |
+- trabalha na camada OSI 1          |
+------------------------------------|
