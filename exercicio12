@@ -1,10 +1,10 @@
- --gateway--                |
-- sim, interliga rede       |
-- sim, traduz protocolos    |
-- sim, encaminha trafego    |
-----------------------------|
---router--                  |
-- não, interliga rede       |
-- não traduz protocolos     |
-- sim, encaminha trafego    |
-----------------------------|
+ --gateway--                                                    |
+- sim, interliga redes que falam linguas\protocolos diferentes  |
+- sim, traduz protocolos                                        |
+- sim, encaminha trafego                                        |
+----------------------------------------------------------------|
+--router--                                                      |
+- não, interliga rede                                           |
+- não traduz protocolos                                         |
+- sim, encaminha trafego                                        |
+----------------------------------------------------------------|
