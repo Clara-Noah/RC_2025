@@ -1,10 +1,11 @@
  --gateway--                                                    |
-- sim, interliga redes que falam linguas\protocolos diferentes  |
+- sim, interliga redes que falam protocolos diferentes e        |
+protocolos iguais                                               |
 - sim, traduz protocolos                                        |
 - sim, encaminha trafego                                        |
 ----------------------------------------------------------------|
 --router--                                                      |
-- não, interliga rede                                           |
+- sim, interliga redes só com o mesmo IP                        |
 - não traduz protocolos                                         |
 - sim, encaminha trafego                                        |
 ----------------------------------------------------------------|
