@@ -17,10 +17,10 @@ camada 2- Transmite dados em quadros dentro de uma única rede, detectando e cor
 camada 1- Transmite bits brutos através do meio físico de comunicação por cabo, fibra óptica, etc.
 
 2.2 / 2.3-
-camada 7- o problema pode ser a aplicação ou serviço indespunivel, para resolver deve saber se o aplicativo está a funcionar ou é um ficheiro corrumpido
-camada 6- o problema pode ser a incompatibilidade de formados de dados, para resolver verifique se o s dados estão a ser exibidos do tipo correto
-camada 5- o problema pode ser interrupção na sessão entre o cliente e o servidor, para funcionar devesse verificar se a sessão entre o cliente e o servidor está estavem
-camada 4- o problema pode ser a porta bloqueada por firewall ou perda de sessão, para funcionar bem verificar a conecção TCP ou UDP estão estabelecidas
-camada 3- o problema pode ser o roteamento incompleto ou a perda de dados, para funcionar bem podemos testar se o IP está correto
-camada 2- o problema pode ser as colisões de dados, para funcionar bem podemos verificar se na rede á colisões e corrigir o problema
-camada 1- o problema pode ser cabos de rede danificado ou desconectado, para funcionar bem podemos verificar se o cabo está bem conectado ou sem danos
+camada 7- o problema pode ser a aplicação ou serviço indespunivel // para resolver deve saber se o aplicativo está a funcionar ou é um ficheiro corrumpido
+camada 6- o problema pode ser a incompatibilidade de formados de dados // para resolver verifique se o s dados estão a ser exibidos do tipo correto
+camada 5- o problema pode ser interrupção na sessão entre o cliente e o servidor // para funcionar devesse verificar se a sessão entre o cliente e o servidor está estavem
+camada 4- o problema pode ser a porta bloqueada por firewall ou perda de sessão // para funcionar bem verificar a conecção TCP ou UDP estão estabelecidas
+camada 3- o problema pode ser o roteamento incompleto ou a perda de dados // para funcionar bem podemos testar se o IP está correto
+camada 2- o problema pode ser as colisões de dados // para funcionar bem podemos verificar se na rede á colisões e corrigir o problema
+camada 1- o problema pode ser cabos de rede danificado ou desconectado // para funcionar bem podemos verificar se o cabo está bem conectado ou sem danos
