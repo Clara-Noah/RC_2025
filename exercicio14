@@ -1,0 +1,31 @@
+1-
+acesso á rede- dá acesso para o e-mail ser enviado com rapidez
+internet- liga ambos os computadores 
+transporte- trasporta o e-mail entre os dois computadores, direto ao destino
+aplicação- mostra o e-mail para a pessoa destinada, neste caso a Ana
+
+2-
+- os protocolos a ser usados são:
+acesso a rede = Ethernet = bits 
+internet = IPv4 =  pacotes IP
+transprte = TCP = segmentos de dados (TCP) ou datagramas (UDP). 
+aplicação = HTTP = textos, imagens, vídeos entre outros
+___________________________________________________________________________________________________________________________________
+   ---tabela---
+
+camada do modelo    \   função na comunicação    \ protocolo(s) possivel(eis) \ unidade de informação   \
+TCP/IP              \   entre a Maria e a Ana    \                            \                         \ 
+---------------------------------------------------------------------------------------------------------
+aplicação           \  mostra o e-mail para a    \                            \                         \
+                    \  pessoa destinada, neste   \  aplicação = HTTP          \ textos, imagens,        \
+                    \   caso a Ana               \                            \ vídeos entre outros     \
+---------------------------------------------------------------------------------------------------------
+transporte          \ trasporta o e-mail entre   \                            \                         \
+                    \ os dois computadores,      \  transporte = TCP          \ segmentos de dados (TCP)\ 
+                    \   direto ao destino        \                            \  ou datagramas (UDP)    \
+---------------------------------------------------------------------------------------------------------
+internet            \ liga ambos os computadores \     internet = IPv4        \     pacotes IP          \
+---------------------------------------------------------------------------------------------------------
+acesso á rede       \ dá acesso para o e-mail ser\  acesso a rede = Ethernet  \        bits             \
+                    \  enviado com rapidez       \                            \                         \
+---------------------------------------------------------------------------------------------------------
