@@ -1,0 +1,26 @@
+1/2->
+camada 7- aplicação        
+camada 6- apresentação     
+camada 5- sessão           
+camada 4- transporte     
+camada 3- rede             
+camada 2- ligação de dados  
+camada 1- fisica           
+
+2.1-
+camada 7- É a camada mais próxima do usuário, que fornece serviços de rede para aplicações como e-mail, transferência de arquivos, etc.        
+camada 6- Formata e traduz os dados para um formato que a aplicação entenda, cuidando de criptografia e compressão.    
+camada 5- Estabelece, mantém e termina as conexões entre aplicações.         
+camada 4- Garantia a entrega confiável dos dados, fragmentando e re-montando os dados, usando protocolos como TCP e UDP.      
+camada 3- Define a melhor rota para os pacotes de dados entre redes, utilizando endereços IP.       
+camada 2- Transmite dados em quadros dentro de uma única rede, detectando e corrigindo erros. 
+camada 1- Transmite bits brutos através do meio físico de comunicação por cabo, fibra óptica, etc.
+
+2.2 / 2.3-
+camada 7- o problema pode ser a aplicação ou serviço indespunivel, para resolver deve saber se o aplicativo está a funcionar ou é um ficheiro corrumpido
+camada 6- o problema pode ser a incompatibilidade de formados de dados, para resolver verifique se o s dados estão a ser exibidos do tipo correto
+camada 5- o problema pode ser interrupção na sessão entre o cliente e o servidor, para funcionar devesse verificar se a sessão entre o cliente e o servidor está estavem
+camada 4- o problema pode ser a porta bloqueada por firewall ou perda de sessão, para funcionar bem verificar a conecção TCP ou UDP estão estabelecidas
+camada 3- o problema pode ser o roteamento incompleto ou a perda de dados, para funcionar bem podemos testar se o IP está correto
+camada 2- o problema pode ser as colisões de dados, para funcionar bem podemos verificar se na rede á colisões e corrigir o problema
+camada 1- o problema pode ser cabos de rede danificado ou desconectado, para funcionar bem podemos verificar se o cabo está bem conectado ou sem danos
