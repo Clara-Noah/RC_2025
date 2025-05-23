@@ -1,0 +1,18 @@
+protocolo  \         funcão principal            \     camada do modelo TCP/IP      \            exemplo utilizado                      \
+-----------------------------------------------------------------------------------------------------------------------------------------
+HTTPS      \protege a comunicação e transferência\                                  \ usado para proteger dados sensíveis,              \
+           \de dados entre o navegador de um     \       camada aplicação (4)       \ como informações de login e transações            \
+           \ usuário e um site                   \                                  \financeiras, durante a transmissão,                \
+-----------------------------------------------------------------------------------------------------------------------------------------
+TCP        \transmissão confiável de dados       \                                  \navegação web, envio de e-mail, transferência      \
+           \ entre dispositivos em uma rede      \       camada trandporte (3)      \de arquivos, acesso remoto e streaming de vídeos   \
+-----------------------------------------------------------------------------------------------------------------------------------------
+DNS        \Permite que navegadores e computadores\                                 \resolve nomes de domínio (como google.com) para    \
+           \traduzam domínio para endereço IP     \       Camada aplicação (4)      \ endereços IP                                      \
+-----------------------------------------------------------------------------------------------------------------------------------------
+ICMP       \permite que os dispositivos informem  \        camada rede (1)          \relatar erros de comunicação e para realizar testes\ 
+           \sobre problemas de entrega de pacotes \                                 \de rede                                            \
+-----------------------------------------------------------------------------------------------------------------------------------------
+FTP        \permite que usuários autorizados      \      camada aplicação (4)       \Permite a transferência de ficheiros entre         \
+           \ enviem e recebam arquivos            \                                 \um computador local e um servidor                  \
+-----------------------------------------------------------------------------------------------------------------------------------------
