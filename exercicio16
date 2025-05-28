@@ -1,7 +1,7 @@
 10.5.23.1 - classe A
 1.2.3.4 - classe A
 150.100.50.25 - classe B
-127.0.0.1 - classe A
+127.0.0.1 - loopback
 250.10.5.5 - classe E
 224.0.0.1 - classe D
 192.168.0.1 - classe C
