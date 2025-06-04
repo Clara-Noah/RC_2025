@@ -9,5 +9,3 @@ impressora compartilhada entre duas entidades: a impressora é partilhada por du
 4- o SON vai verificar a permissão de cada usuario, paara saber os detalhes se a pessoa em questão pode usar ou não a empressora, que funcionalidades pode usar, etc
 
 5- o sistema operativo deteta uma tentativa de acesso não autorizado pelo IP, verificando se o IP em questão é de dentro da impressa ou não
-
-justifica cada um
